@@ -81,7 +81,7 @@ Designed for a responsive gaming experience across:
 
 ## 🌐 Play Online
 
-**Live Game:** [Play Dragon Ball 2048](https://YOUR-NETLIFY-LINK-HERE)
+**Live Game:** [Play Dragon Ball 2048](https://2048dbz.netlify.app/)
 
 > Replace the placeholder above with your actual Netlify website URL.
 
